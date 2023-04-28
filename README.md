@@ -1,2 +1,2 @@
-# ej-meu1-projejo
+# ej-meu1-projeto
 Primeiro projeto de JS
